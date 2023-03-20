@@ -1,0 +1,40 @@
+body {
+  background-image: url("/img/Frame 19.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+button {
+  margin: 20px auto;
+  margin-top: px;
+  display: block;
+  justify-content: center;
+  width: 420px;
+  height: 165px;
+  left: 545px;
+  top: 302px;
+  font-family: "Genos";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 150px;
+  line-height: 180px;
+}
+.icone {
+  display: flex;
+  justify-content: flex-end;
+}
+img {
+  margin-left: 20px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icone {
+  display: flex;
+}
+
+.icone img {
+  margin-left: 10px;
+}
